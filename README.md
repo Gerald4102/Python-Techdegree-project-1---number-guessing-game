@@ -5,5 +5,5 @@
 
 ### Directions on how to run the project locally:
 - Download the files in the repository.
-- Run app.py
+- Run guessing_game.py
 
